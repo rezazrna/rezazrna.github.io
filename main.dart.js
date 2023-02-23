@@ -56382,7 +56382,7 @@ A.yE.prototype={
 cd(a){}}
 A.a_m.prototype={
 I(a){var s=null,r=t.Es,q=A.a([A.ir(s,s,new A.auk(),s,t.kz),A.ir(s,s,new A.aul(),s,r)],t.Ds),p=$.kS,o=t.Tz,n=t.p
-return A.YM(s,A.h2(B.bf,A.a([new A.bN(B.dD,A.a0X(A.cX(A.a([A.bA(J.bbw(J.bbo((p==null?$.kS=new A.pH(Telegram.WebApp):p).a)),s,s,s,s,s,s,s),A.cG(A.a([A.i9(new A.aum(),s,new A.auo(),r,t.ob),B.Nb,A.i9(new A.aup(),s,new A.auq(),r,t.Og),A.i9(new A.aur(),s,new A.aus(),r,o)],n),B.aq,s,B.D,B.C,s,s),B.pN,A.i9(new A.aut(),s,new A.auu(),r,o),B.u2,new A.kw(1,B.dE,A.i9(new A.auv(),s,new A.aun(),r,t.sv),s)],n),B.aq,B.D,B.b8,B.W),s,B.M,s,s,B.S),s),B.ja],n),B.aN),q)}}
+return A.YM(s,A.h2(B.bf,A.a([new A.bN(B.dD,A.a0X(A.cX(A.a([A.bA("platform "+J.bbw(J.bbo((p==null?$.kS=new A.pH(Telegram.WebApp):p).a)),s,s,s,s,s,s,s),A.cG(A.a([A.i9(new A.aum(),s,new A.auo(),r,t.ob),B.Nb,A.i9(new A.aup(),s,new A.auq(),r,t.Og),A.i9(new A.aur(),s,new A.aus(),r,o)],n),B.aq,s,B.D,B.C,s,s),B.pN,A.i9(new A.aut(),s,new A.auu(),r,o),B.u2,new A.kw(1,B.dE,A.i9(new A.auv(),s,new A.aun(),r,t.sv),s)],n),B.aq,B.D,B.b8,B.W),s,B.M,s,s,B.S),s),B.ja],n),B.aN),q)}}
 A.auk.prototype={
 $1(a){return new A.lo(A.a([],t.Lk),!0,$.aO())},
 $S:73}
