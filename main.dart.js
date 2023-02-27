@@ -55840,7 +55840,7 @@ $0(){window.history.back()},
 $S:0}
 A.acY.prototype={
 $0(){var s=$.ig,r=(s==null?$.ig=new A.mw(Telegram.WebApp):s).a,q=J.bQ(r)
-q.nG(r,"value actions "+A.k(J.aY7(q.gyS(r))))},
+q.nG(r,"value actions "+A.k(J.aY7(q.gyS(r)))+" "+q.gCB(r))},
 $S:0}
 A.ad_.prototype={
 $2(a,b){return b.r},
@@ -55861,7 +55861,7 @@ r.r=B.pA
 r.a6()
 r=this.b.a
 s=J.bQ(r)
-s.nG(r,"value "+A.k(J.aY7(s.gyS(r)))+" "+s.gCB(r))},
+s.nG(r,"value "+A.k(J.aY7(s.gyS(r))))},
 $S:5}
 A.q_.prototype={
 cn(a){}}
