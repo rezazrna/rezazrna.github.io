@@ -34,7 +34,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '2006844646';
+    var serviceWorkerVersion = '1373797296';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -42,6 +42,8 @@
 </head>
 <body>
   <script>
+    Telegram.WebApp.offEvent('viewportChanged', function() {});
+
     // Telegram.WebApp.onEvent('viewportChanged', function() {
     //     alert('Settings opened!');
     // });
