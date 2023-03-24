@@ -1,5 +1,5 @@
-importScripts('https://www.gstatic.com/firebasejs/9.18.0/firebase-app.js');
-importScripts('https://www.gstatic.com/firebasejs/9.18.0/firebase-analytics.js');
+// importScripts('https://www.gstatic.com/firebasejs/9.18.0/firebase-app.js');
+// importScripts('https://www.gstatic.com/firebasejs/9.18.0/firebase-analytics.js');
 
   //  /*Update with yours config*/
   //  const firebaseConfig = {
