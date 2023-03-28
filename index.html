@@ -34,7 +34,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '1020860629';
+    var serviceWorkerVersion = '2655017592';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -54,6 +54,10 @@
         return appRunner.runApp();
       });
     });
+    
+    function onReportResponse(data) {
+      console.log('ini data ' + data);
+    }
   </script>
 </body>
 </html>
