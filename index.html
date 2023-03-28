@@ -34,7 +34,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '3136260844';
+    var serviceWorkerVersion = '3250587983';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -57,7 +57,8 @@
     
     function onReportResponse(data) {
       // console.log('ini data ' + data);
-      Telegram.WebApp.sendData(data);
+      // Telegram.WebApp.sendData(data);
+      callbackReport({'data': data});
     }
   </script>
 </body>
