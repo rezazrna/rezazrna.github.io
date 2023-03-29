@@ -34,7 +34,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '1281886392';
+    var serviceWorkerVersion = '740177770';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -58,6 +58,8 @@
     function receiveData(action, data) {
       if (action == 'report') {
         callbackReport({'data': data});
+      } else if (action == 'search') {
+        callbackSearch({'data': data});
       }
     }
   </script>
