@@ -55519,7 +55519,7 @@ s=3
 return A.C(A.oC(A.kk("alpha.inflixer.com","/indochat/product/bot",A.a0(["api_key",u.n],p,o),"https"),B.S.h0(A.a0(["key",A.bcx(new A.dA(Date.now(),!1).aCa(),"ZzvfEuDRqnx43yv8TP84CLdMJ5am9SaK"),"name","product","fields",a],p,o),null)),$async$Cm)
 case 3:n=c
 m=B.S.ht(0,A.lS(J.ag(A.lQ(n.e).c.a,"charset")).d1(0,n.w),null)
-if(n.b!==200||J.ag(m,"status_message")!=null){p=J.ag(m,"status_message")
+if(n.b!==200){p=J.ag(m,"status_message")
 throw A.f(A.hC(p==null?"Kesalahan Server":p))}p=J.ag(m,"success")
 q=p==null?!1:p
 s=1
