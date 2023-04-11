@@ -56733,7 +56733,7 @@ case 3:q=2
 h=p
 l=A.aq(h)
 if(l instanceof A.fH)A.dR(new A.aL8(l),o.f,t.z)
-throw h
+else throw h
 s=5
 break
 case 2:s=1
